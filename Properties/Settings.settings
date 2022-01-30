@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GNUCash_Backups.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MainDirPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\GNUCash Files</Value>
+    </Setting>
+    <Setting Name="CloudDirPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Box Sync\GNUCash Encrypted Files</Value>
+    </Setting>
+    <Setting Name="ExtraDirPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\GNUCash Extra Backup</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
